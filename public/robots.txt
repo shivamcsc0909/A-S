@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akash-neet-mentor.vercel.app/sitemap.xml
